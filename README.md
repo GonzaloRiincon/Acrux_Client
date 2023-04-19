@@ -1,3 +1,7 @@
+Prueba técnica de Front-end para la empresa Acrux. He creado también el back-end (aunque no se solicitaba) por mi propia comodidad a la hora de trabajar. Enlace al back-end: https://github.com/GonzaloRiincon/Acrux_Server
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
